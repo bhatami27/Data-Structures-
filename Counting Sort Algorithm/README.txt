@@ -1,0 +1,2 @@
+Write your counting sort implementation in a method named countingSort() that takes as argument one array of (unsorted) non-negative integers, and returns one array of (sorted) non-negative integers as output.
+Then test. 
