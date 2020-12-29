@@ -1,5 +1,5 @@
 For this task, I needed to implement and test
-one (possibly two, if you decide to complete the bonus part) version(s) of Dijkstra's algorithm for computing
+one version of Dijkstra's algorithm for computing
 the shortest path for all vertices in a directed graph,
 starting from a chosen source vertex s,
 with non-negative weights on all edges.
