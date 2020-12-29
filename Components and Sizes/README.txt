@@ -1,0 +1,1 @@
+Compute the number of components and their sizes by DFS. Then test
